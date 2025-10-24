@@ -61,7 +61,7 @@ The data extraction and processing phase involved multiple steps to transform th
 Below are sample screenshots of the developed dashboards:
 
 ###  Injuries per Year
-![Injuries & Deaths per Year] (Visualization/Images/first/First%20Dashboard.jpg)
+![First Dashboard](Visualization/Images/first/First%20Dashboard.jpg)
 
 
 
