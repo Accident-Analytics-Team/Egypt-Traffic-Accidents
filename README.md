@@ -61,12 +61,12 @@ The data extraction and processing phase involved multiple steps to transform th
 Below are sample screenshots of the developed dashboards:
 
 ###  Injuries per Year
+
 ![First Dashboard](Visualization/Images/first/First%20Dashboard.jpg)
 
-
-
 ###  Deaths per Year
-![Injuries & Deaths per Year](C:\Users\lap\Desktop\Accident Analysis for Egypt\Visualization\Images\Secound)
+
+![Second Dashboard](Visualization/Images/Secound/Second%20Dashboard.jpg)
 
 ###  Geographic Accident Distribution
 ![Geographic Accident Map](C:\Users\lap\Desktop\Accident Analysis for Egypt\Visualization\Images\Third)
