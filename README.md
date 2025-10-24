@@ -61,7 +61,8 @@ The data extraction and processing phase involved multiple steps to transform th
 Below are sample screenshots of the developed dashboards:
 
 ###  Injuries per Year
-![Injuries & Deaths per Year] <img width="261" height="159" alt="image" src="https://github.com/user-attachments/assets/75d8af0a-c65e-4a19-8c80-18f06776052d" />
+![Injuries & Deaths per Year] <img width="261" height="159" alt="image" src="https://github.com/user-attachments/assets/90fc43f2-37d1-4750-b890-e22c64fded78" />
+
 
 
 ###  Deaths per Year
