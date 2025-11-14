@@ -46,6 +46,7 @@ Collected, cleaned, and analyzed infected dashboard data.
 Defined key performance indicators (KPIs).
 Created visuals and developed the dashboard.
 Prepared and delivered the presentation.
+
 ---
 ##  Project Folder Structure :
 
