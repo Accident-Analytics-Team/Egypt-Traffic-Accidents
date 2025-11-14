@@ -20,7 +20,7 @@ The raw data was originally provided in **PDF format**, which required extractio
 
 ---
 
-Team Members and Roles: 
+##Team Members and Roles: 
 
 Yousef Hossam :
 
@@ -48,6 +48,11 @@ Created visuals and developed the dashboard.
 Prepared and delivered the presentation.
 
 ---
+##    Instructor :
+
+Our Instructor : Abdelrahman Ashour 
+---
+
 ##  Project Folder Structure :
 
 ** Egypt Accident Analysis (2020–2024)**  
@@ -83,24 +88,4 @@ The data extraction and processing phase involved multiple steps to transform th
    - Aggregated and merged datasets by year and region.  
    - Added calculated columns for analysis (e.g., injury rate, death ratio).
 
----
 
-## Dashboard Previews
-Below are sample screenshots of the developed dashboards:
-
-###  Injuries per Year
-
-![First Dashboard](Visualization/Images/first/First%20Dashboard.jpg)
-
-###  Deaths per Year
-
-![Second Dashboard](Visualization/Images/Secound/Second%20Dashboard.jpg)
-
-###  Geographic Accident Distribution
-![Geographic Accident Map](C:\Users\lap\Desktop\Accident Analysis for Egypt\Visualization\Images\Third)
-
-###  Ampulance
-![Yearly Trends](C:\Users\lap\Desktop\Accident Analysis for Egypt\Visualization\Images\Forth)
-
-
----
