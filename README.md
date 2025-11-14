@@ -20,7 +20,7 @@ The raw data was originally provided in **PDF format**, which required extractio
 
 ---
 
-##Team Members and Roles: 
+##  Team Members and Roles: 
 
 Yousef Hossam :
 
@@ -51,6 +51,7 @@ Prepared and delivered the presentation.
 ##    Instructor :
 
 Our Instructor : Abdelrahman Ashour 
+
 ---
 
 ##  Project Folder Structure :
