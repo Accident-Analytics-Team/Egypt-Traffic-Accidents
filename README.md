@@ -20,38 +20,6 @@ The raw data was originally provided in **PDF format**, which required extractio
 
 ---
 
-##  Team Members and Roles: 
-
-Yousef Hossam :
-
-Defined key performance indicators (KPIs).
-Created visuals and designed the interactive dashboard.
-Collected, cleaned, and analyzed death dashboard data.
-
-Rahma Atia :
-
-Collected, cleaned, and analyzed government dashboard data.
-Defined key performance indicators (KPIs).
-Created visuals and developed the dashboard.
-Prepared and delivered the presentation.
-
-Feras Khalil :
-Collected, cleaned, and analyzed ambulance dashboard data.
-Defined key performance indicators (KPIs).
-Created visuals and designed the interactive dashboard.
-
-Maryam Gamal :
-
-Collected, cleaned, and analyzed infected dashboard data.
-Defined key performance indicators (KPIs).
-Created visuals and developed the dashboard.
-Prepared and delivered the presentation.
-
----
-##    Instructor :
-
-Our Instructor : Abdelrahman Ashour 
-
 ---
 
 ##  Project Folder Structure :
